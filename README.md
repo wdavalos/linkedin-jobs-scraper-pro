@@ -13,7 +13,7 @@ LinkedIn job postings with full description, applicant count, seniority and sala
 
 ## Comparison
 
-If you're comparing linkedin jobs scraper tools on the Apify Store, this actor charges $1 per 1,000 jobs and returns full description, applicant count, seniority and salary on every row, with filters applied before billing so you never pay for jobs your filters rejected.
+If you're comparing LinkedIn Easy Apply jobs scrapers on the Apify Store, the dedicated Easy Apply listings at the top of that search have nine users or fewer, and most general LinkedIn jobs scrapers don't expose applicant counts at all. This actor filters on Easy Apply before billing and returns full description, applicant count, seniority and salary on every row, so you never pay for jobs your filters rejected.
 
 ## Pricing
 
